@@ -1,0 +1,14 @@
+*/ created by loki */
+*/ only use in non-commercial projects; commercial use is prohibited. */
+*/ copyright (C) loki studios - all rights reserved. */
+
+/* poppins font */
+@font-face {
+  font-family: 'poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url (/static/a1!/poppins.woff) format('woff');
+  unicode-range: U+0307, U+0323, U+0964-0965, U+0D02-0D7F, U+200C-200D, U+20B9, U+25CC;
+}
+font-family: 'poppins'
