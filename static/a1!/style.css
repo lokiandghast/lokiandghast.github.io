@@ -129,4 +129,19 @@ input[type=text], select {
 	position:relative;
 	top:1px;
 }
+.header
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(33, 33, 32, 1);
+  font-weight:bold;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  box-shadow:inset 0px 1px 0px 0px rgba(62, 62, 59, 1);
+  background:linear-gradient(rgba(34, 35, 34, 1), rgba(76, 77, 75, 1));
               
