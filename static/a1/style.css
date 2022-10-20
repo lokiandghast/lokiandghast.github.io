@@ -1,0 +1,147 @@
+*/ created by loki */
+*/ only use in non-commercial projects; commercial use is prohibited. */
+*/ copyright (C) loki studios - all rights reserved. */
+
+.submitbutton {
+	box-shadow:inset 0px 1px 0px 0px #9acc85;
+	background:linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+	background-color:#74ad5a;
+	border:1px solid #3b6e22;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+.submitbutton:hover {
+	background:linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+	background-color:#68a54b;
+}
+.submitbutton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.button-blue {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(36, 61, 91, 1);
+  font-weight:bold;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  box-shadow:inset 0px 1px 0px 0px rgba(95, 126, 255, 1);
+  background:linear-gradient(rgba(90, 152, 173, 1), rgba(75, 99, 165, 1));
+}
+
+.button-blue:hover {
+  background: linear-gradient(rgba(75, 99, 165, 1), rgba(90, 152, 173, 1));
+}
+
+.button-blue:active {
+	position:relative;
+	top:1px;
+}
+
+
+.button-red {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(91, 36, 36, 1);
+  font-weight:bold;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  box-shadow:inset 0px 1px 0px 0px rgba(255, 2, 2, 1);
+  background:linear-gradient(rgba(255, 10, 10, 1), rgba(165, 75, 75, 1));
+}
+
+.button-red:hover {
+  background: linear-gradient(rgba(165, 75, 75, 1), rgba(255, 10, 10, 1));
+}
+              
+
+.button-green {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#3b6e22;
+  font-weight:bold;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  box-shadow:inset 0px 1px 0px 0px #9acc85;
+  background:linear-gradient(#74ad5a, #68a54b);
+}
+
+.button-green:hover {
+  background: linear-gradient(#68a54b, #74ad5a);
+}
+              
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  -webkit-box-shadow: inset 6px 5px 15px -9px #000000; 
+box-shadow: inset 6px 5px 15px -9px #000000;
+}
+input[type=text], select {
+	box-shadow:inset 0px 1px 0px 0px #9acc85;
+	background:linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+	background-color:#74ad5a;
+	border:1px solid #3b6e22;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+.submitbutton:hover {
+	background:linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+	background-color:#68a54b;
+}
+.submitbutton:active {
+	position:relative;
+	top:1px;
+}
+.header
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(33, 33, 32, 1);
+  font-weight:bold;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  box-shadow:inset 0px 1px 0px 0px rgba(62, 62, 59, 1);
+  background:linear-gradient(rgba(34, 35, 34, 1), rgba(76, 77, 75, 1));
+              
